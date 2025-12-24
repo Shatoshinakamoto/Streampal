@@ -1,7 +1,7 @@
 let Autohide = false;
 var server = 3;
 const TodaysDate = new Date();
-const ${currentYear} = new Date().getFullYear();
+const currentYear = new Date().getFullYear();
 const timer = ms => new Promise(res => setTimeout(res, ms));
 var imdbId;
 var namee;
