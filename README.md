@@ -1,4 +1,4 @@
-8# Streampal
+# Streampal
 
 ![CM-Badge-2](https://github.com/satoshinakamoto-ai/Streampal/blob/main/assets/CM-Badge-2.png)
 
