@@ -60,4 +60,4 @@ We deprecated the concept and implementation of ipfs due to the slow serving spe
 - We do not and will not create any kind of censorship on our site or our search engine if there is a file available from a server it will display it if you have issues again please reach out to those servers we do not Condone or Advise the publishing of Copyrighted Material!
 - Although we advise how to publish and where to publish we trust the users will properly post legal content that does not infringe on any Copyrights!
 
-Shatoshi Nakamoto waz here.... the original name Sha was took out and replace with sa by the team to cover the algorithm used the algorithm is still a custom made version of sha though made by me.
+Shatoshi Nakamoto waz here.... the original name Sha was took out and replace with sa by the team to cover the algorithm utilized although the algorithm used is still a custom made version of sha-256 algorithm to prevent rainbow hash table attacks and more which was made by me not allowed to be publicly known.
