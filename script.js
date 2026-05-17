@@ -901,7 +901,7 @@ function updateMovieContainer() {
     if (server === 3) {
       document.getElementById("watchMoviePlayer").removeAttribute('sandbox');
       //document.getElementById("watchMoviePlayer").setAttribute('sandbox', "allow-forms allow-modals allow-pointer-lock allow-same-origin allow-scripts allow-top-navigation");
-      document.getElementById("watchMoviePlayer").setAttribute('src', 'https://v2.vidsrc.me/embed/'+id+'/');//13612
+      document.getElementById("watchMoviePlayer").setAttribute('src', 'https://vsembed.ru/embed/'+id+'/');//13612
     }
 
     if (server === 4) {
@@ -1201,7 +1201,7 @@ function updateTvPlayer(season, episode) {
   if (server === 3) {
     //document.getElementById("watchTvPlayer").setAttribute('sandbox', "allow-forms allow-modals allow-pointer-lock allow-same-origin allow-scripts allow-top-navigation");
     document.getElementById("watchTvPlayer").removeAttribute('sandbox');
-    document.getElementById("watchTvPlayer").setAttribute('src', `https://v2.vidsrc.me/embed/${id}/${season}-${episode}/`);
+    document.getElementById("watchTvPlayer").setAttribute('src', `https://vsembed.ru/embed/${id}/${season}-${episode}/`);
   }
 
   if (server === 4) {
